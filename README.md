@@ -3,4 +3,4 @@
 ## 🌱 I’m currently learning Advanced Asp.net Core and Unity Engine
 ## 📫 How to reach me : 
 ###  Telegram : @SamoProgrammer
-###  Linkedin : [MohammadMohammadi](linkedin.com/in/samoprogrammer)
+###  Linkedin : samoprogrammer
